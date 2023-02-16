@@ -1463,8 +1463,8 @@ $tdataform_data[".hideMobileList"] = array();
 	
 		$edata["LookupValues"] = array();
 	$edata["LookupValues"][] = "برنامج نور";
+	$edata["LookupValues"][] = "التعامل مع الحساب الوزاري";
 	$edata["LookupValues"][] = "التعامل مع نظام أعمالي ( خاص بموظفي وموظفات اقسام الادارة )";
-	$edata["LookupValues"][] = "نظام خدماتي ( خاص بموظفي وموظفات الادارة )";
 	$edata["LookupValues"][] = "التعامل مع نظام فارس";
 	$edata["LookupValues"][] = "مهارات التعامل مع برامج الاوفس ( الوورد - الاكسل - البريد الالكتروني )";
 	$edata["LookupValues"][] = "السكرتارية وإدارة المكاتب";
