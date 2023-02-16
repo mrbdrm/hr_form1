@@ -696,9 +696,9 @@ $suggestAllContent = true;
 $strLastSQL = "";
 $showCustomMarkerOnPrint = false;
 
-$projectBuildKey = "10_1676440012";
+$projectBuildKey = "11_1676440012";
 $wizardBuildKey = "37251";
-$projectBuildNumber = "10";
+$projectBuildNumber = "11";
 
 $mlang_messages = array();
 $mlang_charsets = array();
@@ -722,7 +722,7 @@ $tableCaptions = array();
 $tableCaptions["Arabic"] = array();
 $tableCaptions["Arabic"][""] = "";
 $tableCaptions["Arabic"]["form_data"] = "نموذج التسجيل في البرامج التدريبية";
-$tableCaptions["Arabic"]["form_it_users"] = "Form It Users";
+$tableCaptions["Arabic"]["form_it_users"] = "المستخدمين";
 
 
 $globalEvents = new class_GlobalEvents;

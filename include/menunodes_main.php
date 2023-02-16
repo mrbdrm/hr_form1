@@ -52,7 +52,7 @@ function getMenuNodes_main($menuNodesObject)
 
 		$menuNode["color"] = "";
 
-	$menuNode["title"] = "Form It Users";
+	$menuNode["title"] = "المستخدمين";
 
 
 
